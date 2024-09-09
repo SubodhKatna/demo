@@ -2,4 +2,4 @@
 My name is Subodh Katna
 I study in LPU
 for my university purpose
-i am study devops
+i am studing devops
