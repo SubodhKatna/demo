@@ -1,0 +1,12 @@
+so this 
+
+dry run
+
+open terminal
+use git clone
+navigate to directory
+create two file
+add changes
+commit the changes
+
+Ifyou have push access push it to main or branch
